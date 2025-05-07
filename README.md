@@ -67,6 +67,7 @@ Suggested approach: A/B test
 * Compare response rates with a statistical test
 
 Metric:
+
 $$
 \text{Response Rate} = \frac{\text{Responses}}{\text{Submissions}}
 $$
